@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/mainrun.dir/main.cpp.o -o mainrun  libSAMPLE_LIB.a 

@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/michael/Documents/Practice/C++ Code/CMakeTest/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/SAMPLE_LIB.dir/Sample.cpp.o -c \"/home/michael/Documents/Practice/C++ Code/CMakeTest/Sample.cpp\"",
+  "file": "/home/michael/Documents/Practice/C++ Code/CMakeTest/Sample.cpp"
+},
+{
+  "directory": "/home/michael/Documents/Practice/C++ Code/CMakeTest/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/mainrun.dir/main.cpp.o -c \"/home/michael/Documents/Practice/C++ Code/CMakeTest/main.cpp\"",
+  "file": "/home/michael/Documents/Practice/C++ Code/CMakeTest/main.cpp"
+},
+{
+  "directory": "/home/michael/Documents/Practice/C++ Code/CMakeTest/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/g++  -I\"/home/michael/Documents/Practice/C++ Code/CMakeTest/build/_deps/googletest-src/googlemock/include\" -I\"/home/michael/Documents/Practice/C++ Code/CMakeTest/build/_deps/googletest-src/googlemock\" -isystem \"/home/michael/Documents/Practice/C++ Code/CMakeTest/build/_deps/googletest-src/googletest/include\" -isystem \"/home/michael/Documents/Practice/C++ Code/CMakeTest/build/_deps/googletest-src/googletest\" -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c \"/home/michael/Documents/Practice/C++ Code/CMakeTest/build/_deps/googletest-src/googlemock/src/gmock-all.cc\"",
+  "file": "/home/michael/Documents/Practice/C++ Code/CMakeTest/build/_deps/googletest-src/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/michael/Documents/Practice/C++ Code/CMakeTest/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/g++  -isystem \"/home/michael/Documents/Practice/C++ Code/CMakeTest/build/_deps/googletest-src/googlemock/include\" -isystem \"/home/michael/Documents/Practice/C++ Code/CMakeTest/build/_deps/googletest-src/googlemock\" -isystem \"/home/michael/Documents/Practice/C++ Code/CMakeTest/build/_deps/googletest-src/googletest/include\" -isystem \"/home/michael/Documents/Practice/C++ Code/CMakeTest/build/_deps/googletest-src/googletest\" -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c \"/home/michael/Documents/Practice/C++ Code/CMakeTest/build/_deps/googletest-src/googlemock/src/gmock_main.cc\"",
+  "file": "/home/michael/Documents/Practice/C++ Code/CMakeTest/build/_deps/googletest-src/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/michael/Documents/Practice/C++ Code/CMakeTest/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/g++  -I\"/home/michael/Documents/Practice/C++ Code/CMakeTest/build/_deps/googletest-src/googletest/include\" -I\"/home/michael/Documents/Practice/C++ Code/CMakeTest/build/_deps/googletest-src/googletest\" -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c \"/home/michael/Documents/Practice/C++ Code/CMakeTest/build/_deps/googletest-src/googletest/src/gtest-all.cc\"",
+  "file": "/home/michael/Documents/Practice/C++ Code/CMakeTest/build/_deps/googletest-src/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/michael/Documents/Practice/C++ Code/CMakeTest/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/g++  -isystem \"/home/michael/Documents/Practice/C++ Code/CMakeTest/build/_deps/googletest-src/googletest/include\" -isystem \"/home/michael/Documents/Practice/C++ Code/CMakeTest/build/_deps/googletest-src/googletest\" -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c \"/home/michael/Documents/Practice/C++ Code/CMakeTest/build/_deps/googletest-src/googletest/src/gtest_main.cc\"",
+  "file": "/home/michael/Documents/Practice/C++ Code/CMakeTest/build/_deps/googletest-src/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/home/michael/Documents/Practice/C++ Code/CMakeTest/build/tests",
+  "command": "/usr/bin/g++  -isystem \"/home/michael/Documents/Practice/C++ Code/CMakeTest/build/_deps/googletest-src/googletest/include\" -isystem \"/home/michael/Documents/Practice/C++ Code/CMakeTest/build/_deps/googletest-src/googletest\" -g -o CMakeFiles/hello_test.dir/hello_test.cpp.o -c \"/home/michael/Documents/Practice/C++ Code/CMakeTest/tests/hello_test.cpp\"",
+  "file": "/home/michael/Documents/Practice/C++ Code/CMakeTest/tests/hello_test.cpp"
+}
+]
